@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>This is demo for CI CD using aws beanstalk!</h2>
 </body>
 </html>
